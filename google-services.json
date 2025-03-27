@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870552528102",
+    "project_id": "rescue-connect-a5c4b",
+    "storage_bucket": "rescue-connect-a5c4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870552528102:android:23df609d4cdd0b3feb0727",
+        "android_client_info": {
+          "package_name": "com.rescueconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZzcHy9o6WSu9Hoz3t0kONacxAvRWIZQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
